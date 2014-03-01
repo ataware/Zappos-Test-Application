@@ -1,0 +1,7 @@
+E:\My Twitter Project\Zappos\ZapposWebApplication\ZapposWebApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\My Twitter Project\Zappos\ZapposWebApplication\ZapposWebApplication\bin\ZapposWebApplication.dll
+E:\My Twitter Project\Zappos\ZapposWebApplication\ZapposWebApplication\bin\ZapposWebApplication.pdb
+E:\My Twitter Project\Zappos\ZapposWebApplication\ZapposWebApplication\bin\Newtonsoft.Json.dll
+E:\My Twitter Project\Zappos\ZapposWebApplication\ZapposWebApplication\bin\Newtonsoft.Json.xml
+E:\My Twitter Project\Zappos\ZapposWebApplication\ZapposWebApplication\obj\Debug\ZapposWebApplication.dll
+E:\My Twitter Project\Zappos\ZapposWebApplication\ZapposWebApplication\obj\Debug\ZapposWebApplication.pdb
